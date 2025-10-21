@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @danielharrington06
-- 👀 I’m studying Computer Science @ UCL. https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc
-- 🌱 I’m most familiar with Python and C#, although I have tried a bit of HTML. Over the next 3 years, I will learn many new languages including C, Java and Haskell.
-- ⌚ A recent project is my A-Level Computer Science Coursework, where I programmed a Navigation App for my school using C#, Unity, Dijkstra's and MySQL.
-- 🥇 One of my most memorable achievements was producing a program of my own design and development that converted joystick positions from a controller to motor velocities to be used in a VEX Robotics robot. I won the 'Best Engineer' award for this work.
+# Hi, I’m Daniel Harrington  
+### BSc Computer Science Student | University College London (UCL)
+
+Welcome to my GitHub profile. I’m an aspiring software engineer with a strong interest in algorithms, systems programming, and robotics.
+
+---
+
+## 🧠 About Me
+
+- 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science.  
+- 💻 Experienced with **Python** and **C#**, and currently expanding my knowledge of **C**, **Java**, and **Haskell**.  
+- 🧩 I’m passionate about **algorithms**, **embedded systems**, and **practical software engineering**.  
+- ⚙️ I enjoy building projects that combine technical depth with real-world utility.  
+
+During my studies and personal work, I’ve developed several independent projects, including:
+- A **school navigation system** built in Unity using **Dijkstra’s algorithm** and **MySQL** for backend storage.  
+- A **joystick-to-motor translator** for a VEX robotics system — recognised with a *Best Engineer* award.  
+- A **Python file synchronization tool** designed for safe and efficient data transfer.  
+- A **Raspberry Pi Pico project** transmitting ADC data via UART for graphical analysis.  
+
+---
+
+## ⚙️ Technical Skills
+
+- **Languages:** Python, C#, (learning C, Java, Haskell)  
+- **Tools & Frameworks:** Unity, MySQL, Git, Visual Studio, VS Code  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)  
+- **GitHub:** [@danielharrington06](https://github.com/danielharrington06)  
+
 
 <!---
 danielharrington06/danielharrington06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
