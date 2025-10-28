@@ -26,7 +26,7 @@ During my studies and personal work, I’ve developed several projects, includin
 ## Contact
 
 - **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)  
-- **Email:** [School](danielharrington06@outlook.com)
+- **Email:** [Personal](danielharrington06@outlook.com)
 
 
 <!---
