@@ -1,36 +1,32 @@
 # Hi, I’m Daniel Harrington  
 ### BSc Computer Science Student | University College London (UCL)
 
-Welcome to my GitHub profile. I’m an aspiring software engineer with a strong interest in algorithms, systems programming, and robotics.
+Welcome to my GitHub profile. I’m an aspiring software engineer with a strong interest in algorithms, embedded systems, and AI.
+
+## About Me
+
+- 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
+- 💻 Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **C++** and **Python**
+- 🧩 I’m passionate about **embedded systems** and **AI Game Engines**
+- 🚧 I'm currently working on **a C program that simulates a robot searching for markers**
+
+During my studies and personal work, I’ve developed several projects, including:
+- A **school navigation system** built in Unity using **Dijkstra’s algorithm** and **MySQL** for backend storage
+- A **joystick-to-motor translator** for a VEX robotics system, recognised with a *Best Engineer* award
+- A **Python file synchronisation tool** designed for safe and efficient data synchronisation
+- A **Raspberry Pi Pico project** transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display
+
+## Technical Skills
+
+- **Languages:** Python, C#, C, C++, (soon to learn Haskell and Java)
+- **Tools & Frameworks:** Unity, MySQL, VEXCode, Matplotlib, Git, VS Code
 
 ---
 
-## 🧠 About Me
-
-- 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science.  
-- 💻 Experienced with **Python** and **C#**, and currently expanding my knowledge of **C**, **Java**, and **Haskell**.  
-- 🧩 I’m passionate about **algorithms**, **embedded systems**, and **practical software engineering**.  
-- ⚙️ I enjoy building projects that combine technical depth with real-world utility.  
-
-During my studies and personal work, I’ve developed several independent projects, including:
-- A **school navigation system** built in Unity using **Dijkstra’s algorithm** and **MySQL** for backend storage.  
-- A **joystick-to-motor translator** for a VEX robotics system — recognised with a *Best Engineer* award.  
-- A **Python file synchronization tool** designed for safe and efficient data transfer.  
-- A **Raspberry Pi Pico project** transmitting ADC data via UART for graphical analysis.  
-
----
-
-## ⚙️ Technical Skills
-
-- **Languages:** Python, C#, (learning C, Java, Haskell)  
-- **Tools & Frameworks:** Unity, MySQL, Git, Visual Studio, VS Code  
-
----
-
-## 📫 Contact
+## Contact
 
 - **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)  
-- **GitHub:** [@danielharrington06](https://github.com/danielharrington06)  
+- **Email:** [School](danielharrington06@outlook.com)
 
 
 <!---
