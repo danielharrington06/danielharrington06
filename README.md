@@ -5,10 +5,10 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 
 ## About Me
 
-- 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
-- 💻 Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **C++** and **Python**
-- 🧩 I’m passionate about **embedded systems** and **AI Game Engines**
-- 🚧 I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena**
+- **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
+- Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **C++** and **Python**
+- I’m passionate about **embedded systems** and **AI Game Engines**
+- I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena**
 
 During my studies and personal work, I’ve developed several projects, including:
 - A **school navigation system** built in Unity using **Dijkstra’s algorithm** and **MySQL** for backend storage
