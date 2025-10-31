@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 
 - 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
 - 💻 Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **Haskell** and **Python**
-- 🧩 I’m passionate about **embedded systems**, **AI Game Engines** and **real-world applications of computing** that improve lives
+- 🧩 I’m passionate about **embedded systems**, **AI** and **real-world applications of computing** that improve lives
 - 🚧 I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena** and **a Tetris AI**
 
 During my studies and personal work, I’ve worked on several projects, including:
