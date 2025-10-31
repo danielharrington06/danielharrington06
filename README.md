@@ -6,15 +6,15 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 ## About Me
 
 - 🎓 **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
-- 💻 Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **C++** and **Python**
-- 🧩 I’m passionate about **embedded systems** and **AI Game Engines**
-- 🚧 I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena**
+- 💻 Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **Haskell** and **Python**
+- 🧩 I’m passionate about **embedded systems**, **AI Game Engines** and **real-world applications of computing** that improve lives
+- 🚧 I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena** and **a Tetris AI**
 
-During my studies and personal work, I’ve developed several projects, including:
-- A **school navigation system** built in Unity using **Dijkstra’s algorithm** and **MySQL** for backend storage
+During my studies and personal work, I’ve worked on several projects, including:
+- A [**school navigation system**](https://github.com/danielharrington06/Stanborough-Navigation-App) built in Unity using **Dijkstra’s algorithm** and **MySQL**as well as including numerous inclusivity-focussed features such as step-free pathfinding
 - A **joystick-to-motor translator** for a VEX robotics system, recognised with a *Best Engineer* award
-- A **Python file synchronisation tool** designed for safe and efficient data synchronisation
-- A **Raspberry Pi Pico project** transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display
+- A **NEAT** neural network for flappy bird
+- A [**Raspberry Pi Pico project**](https://github.com/danielharrington06/Raspberry-Pi-Pico-UART), transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display to get to grips with how embedded systems are used in MedTech
 
 ## Technical Skills
 
