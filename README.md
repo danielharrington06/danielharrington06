@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 - **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
 - Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **Haskell** and **Python**
 - I’m passionate about **embedded systems**, **AI** and **real-world applications of computing** that improve lives
-- I'm currently working on **a C program that simulates a robot searching for markers in a 2D arena** and **a Tetris AI**
+- I'm currently working on **an anomaly detection program for a simulated bioreactor** and **a network protocol specification for a multiplayer version of Pac-Man**
 
 During my studies and personal work, I’ve worked on several projects, including:
 - A [**school navigation system**](https://github.com/danielharrington06/Stanborough-Navigation-App) built in Unity using **Dijkstra’s algorithm** and **MySQL** that has numerous inclusivity-focused features such as step-free pathfinding and an intuitive UI
@@ -18,15 +18,14 @@ During my studies and personal work, I’ve worked on several projects, includin
 
 ## Technical Skills
 
-- **Languages:** Python, C#, C, C++, (soon to learn Haskell and Java)
+- **Languages:** Python, C#, C, C++, Haskell, (soon to learn Java)
 - **Tools & Frameworks:** Unity, MySQL, VEXCode, Matplotlib, Git, VS Code
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)  
-- **Email:** [Personal](danielharrington06@outlook.com)
+- **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)
 
 
 <!---
