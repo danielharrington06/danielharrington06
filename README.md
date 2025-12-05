@@ -12,14 +12,15 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 
 During my studies and personal work, I’ve worked on several projects, including:
 - A [**school navigation system**](https://github.com/danielharrington06/Stanborough-Navigation-App) built in Unity using **Dijkstra’s algorithm** and **MySQL** that has numerous inclusivity-focused features such as step-free pathfinding and an intuitive UI
+- A [**Spiral Search Robot Simulation**](https://github.com/danielharrington06/Spiral-Search-Robot-Sim) that simulated a robot searching for markers on a grid without knowledge of their exact location, instead employing my own *Spiral Algorithm*
+- A [**Tetris AI**](https://github.com/danielharrington06/Tetris-AI) that played a modified version of Tetris with bombs, discards and exponential rewards for line clears
 - A **joystick-to-motor translator** for a VEX robotics system, recognised with a *Best Engineer* award and playing a key role in winning the competition
-- A **NEAT** neural network for flappy bird
-- A [**Raspberry Pi Pico project**](https://github.com/danielharrington06/Raspberry-Pi-Pico-UART), transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display to get to grips with how embedded systems are used in MedTech
+- A [**Raspberry Pi Pico project**](https://github.com/danielharrington06/Raspberry-Pi-Pico-UART), transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display to understand how embedded systems are used in medical embedded systems
 
 ## Technical Skills
 
 - **Languages:** Python, C#, C, C++, Haskell, (soon to learn Java)
-- **Tools & Frameworks:** Unity, MySQL, VEXCode, Matplotlib, Git, VS Code
+- **Tools & Frameworks:** Git, VS Code, MySQL, Unity, VEXCode, Matplotlib
 
 ---
 
@@ -27,8 +28,3 @@ During my studies and personal work, I’ve worked on several projects, includin
 
 - **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)
 
-
-<!---
-danielharrington06/danielharrington06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
