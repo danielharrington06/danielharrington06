@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I’m an aspiring software engineer with a strong 
 ## About Me
 
 - **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
-- Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **C**, **Haskell** and **Python**
+- Experienced with **Python**, **C#** and **C**, and actively expanding my knowledge on **Java** and **Python**
 - I’m passionate about **embedded systems**, **AI** and **real-world applications of computing** that improve lives
 - I'm currently working on **an anomaly detection program for a simulated bioreactor** and **Advent of Code 2025**
 
