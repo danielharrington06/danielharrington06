@@ -19,7 +19,7 @@ During my studies and personal work, I’ve worked on several projects, includin
 
 ## Technical Skills
 
-- **Languages:** Python, C#, C, C++, Haskell, (soon to learn Java)
+- **Languages:** Python, C#, C, C++, Java, Haskell
 - **Tools & Frameworks:** Git, VS Code, MySQL, Unity, VEXCode, Matplotlib
 
 ---
