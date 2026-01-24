@@ -26,5 +26,5 @@ During my studies and personal work, I’ve worked on several projects, includin
 
 ## Contact
 
-- **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-harrington-9834b4301)
+- **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-p-harrington/)
 
