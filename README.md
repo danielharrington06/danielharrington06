@@ -1,7 +1,7 @@
 # Hi, I’m Daniel Harrington  
 ### BSc Computer Science Student | University College London (UCL)
 
-Welcome to my GitHub profile. I’m an aspiring software engineer with a strong interest in algorithms, embedded systems, and AI.
+Welcome to my GitHub profile. I’m a software engineer with a strong interest in algorithms, embedded systems, and AI.
 
 ## About Me
 
@@ -19,7 +19,7 @@ During my studies and personal work, I’ve worked on several projects, includin
 
 ## Technical Skills
 
-- **Languages:** Python, C#, C, C++, Java, Haskell
+- **Languages:** Python, C#, C, C++, Java, Haskell, Typescript
 - **Tools & Frameworks:** Git, VS Code, MySQL, Unity, VEXCode, Matplotlib
 
 ---
