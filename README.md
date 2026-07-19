@@ -17,14 +17,10 @@ During my studies and personal work, I’ve worked on several projects, includin
 - A **joystick-to-motor translator** for a VEX robotics system, recognised with a *Best Engineer* award and playing a key role in winning the competition
 - A [**Raspberry Pi Pico project**](https://github.com/danielharrington06/Raspberry-Pi-Pico-UART), transmitting ADC data via UART and displaying it graphically on an oscilloscope-style sliding window display to understand how embedded systems are used in medical embedded systems
 
-## Technical Skills
-
-- **Languages:** Python, C#, C, C++, Java, Haskell, Typescript
-- **Tools & Frameworks:** Git, VS Code, MySQL, Unity, VEXCode, Matplotlib
-
 ---
 
 ## Contact
 
 - **LinkedIn:** [Daniel Harrington](https://www.linkedin.com/in/daniel-p-harrington/)
+- **Email:** [daniel.p.harrington.101@gmail.com](mailto:daniel.p.harrington.101@gmail.com)
 
