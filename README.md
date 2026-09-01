@@ -1,7 +1,7 @@
 # Hi, I’m Daniel Harrington  
 ### BSc Computer Science Student | University College London (UCL)
 
-Welcome to my GitHub profile. I’m a software engineer with a strong interest in software engineering in safety critical systems.
+Welcome to my GitHub profile. I’m a software engineer with a strong interest in software engineering for real world problems.
 
 ## About Me
 
