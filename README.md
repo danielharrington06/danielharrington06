@@ -6,8 +6,8 @@ Welcome to my GitHub profile. I’m a software engineer with a strong interest i
 ## About Me
 
 - **Undergraduate Student at UCL**, currently pursuing a BSc in Computer Science
-- Experienced with **Python**, **C#**, **C** and **Java**, actively expanding my knowledge on other languages.
-- I'm currently working on an **emergency response simulation**, accelerated by a GPU shader.
+- Experienced with **Python**, **C++**, **C**, **C#**, and **Java**, actively expanding my knowledge on other languages.
+- I'm currently working on an **emergency response simulation**, accelerated by a GPU shader written in Metal.
 
 Across my studies and personal work, I’ve worked on several projects, including:
 - StanNav, a [**school navigation system**](https://github.com/danielharrington06/Stanborough-Navigation-App) built in Unity using **Dijkstra’s algorithm** and **MySQL** that has numerous inclusivity-focused features such as step-free pathfinding and is constrained by one-way corridors
