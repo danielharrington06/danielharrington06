@@ -10,6 +10,7 @@ Welcome to my GitHub profile. I’m a software engineer with a strong interest i
 - I'm currently working on an **emergency response simulation**, accelerated by a GPU shader written in Metal.
 
 Across my studies and personal work, I’ve worked on several projects, including:
+- A GPU Accelerated [**Emergency Response Simulation**](https://github.com/danielharrington06/emergency-response-simulation) written in C++ with the Metal API, benchmarked against the CPU routing implementations to investigate the performance benefits of GPU parallelisation
 - StanNav, a [**school navigation system**](https://github.com/danielharrington06/Stanborough-Navigation-App) built in Unity using **Dijkstra’s algorithm** and **MySQL** that has numerous inclusivity-focused features such as step-free pathfinding and is constrained by one-way corridors
 - A [**Bioreactor Anomaly Detection System**](https://github.com/danielharrington06/Bioreactor-Data-Analysis), using windowed and jump-based detection, tuned with ML, to detect a variety of injected faults in a data stream from a simulated bioreactor 
 - A [**Tetris AI**](https://github.com/danielharrington06/Tetris-AI) that played a modified version of Tetris with bombs, discards and exponential rewards for line clears
