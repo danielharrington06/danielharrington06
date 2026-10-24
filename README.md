@@ -15,7 +15,6 @@ Across my studies and personal work, I’ve worked on several projects, includin
 - A [**Bioreactor Anomaly Detection System**](https://github.com/danielharrington06/Bioreactor-Data-Analysis), using windowed and jump-based detection, tuned with ML, to detect a variety of injected faults in a data stream from a simulated bioreactor 
 - A [**Tetris AI**](https://github.com/danielharrington06/Tetris-AI) that played a modified version of Tetris with bombs, discards and exponential rewards for line clears
 - Code for a **VEX Robot**, that won us the competition and saw me recognised with a *Best Engineer* award 
-- A [**Spiral Search Robot Simulation**](https://github.com/danielharrington06/Spiral-Search-Robot-Sim) that simulated a robot searching for markers on a grid without knowledge of their exact location, instead employing my own *Spiral Algorithm*
 
 ---
 
